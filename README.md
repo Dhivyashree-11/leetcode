@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dhivyashree-11/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Dhivyashree-11/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Dhivyashree-11/leetcode/tree/master/0202-happy-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dhivyashree-11/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Memoization
 |  |
 | ------- |
