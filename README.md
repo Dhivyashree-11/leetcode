@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhivyashree-11/leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Dhivyashree-11/leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhivyashree-11/leetcode/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/Dhivyashree-11/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dhivyashree-11/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Dhivyashree-11/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Dhivyashree-11/leetcode/tree/master/0202-happy-number) |
 ## Memoization
 |  |
 | ------- |
